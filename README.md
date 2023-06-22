@@ -1,9 +1,9 @@
-# Django_Hello_World_Tutorial
-# hello-world
-Software Engineering Tech exercise with git, django and python
-**This is Amoo Olukunle. I am trying to create a new me in software engineering profession**
-*The journey is rough and tough, but the destinition is glorious*
->Though time never last, but though people do
+# Django_Hello_World_Tech_Exercise "Git Branching"
+## Hello-world!
+Software Engineering Tech exercise with git, django and python <br>
+**This is Amoo Olukunle. I just created a new ReadMe for software engineering Tech Exercise** <br>
+*The journey is rough and tough, but the destinition is glorious* <br>
+Tough time never last, but tough people do. <br>
 >There are so many things to learn in the program
 1. Code skill
 2. Collaboration
@@ -13,9 +13,11 @@ Software Engineering Tech exercise with git, django and python
 - [] Learn github
 - [] Learn Django
 - [] Learn Python.
+- [] Learn Markdown
  >
-You would like to visit the following website for more information, visit
->[Django Tutorial](https://www.djangotutorial.com)
->[Git Tutorial](https://www.githubtutorial.com)
->[Python Tutorial](https://www.pythontutorial.com)
->[^1]: This is the beginnig of a great thing.
+You would like to visit the following website for more information: <br>
+[Django Tutorial](https://www.djangotutorial.com).<br>
+[Git Tutorial](https://www.githubtutorial.com)<br>
+[Python Tutorial](https://www.pythontutorial.com)<br>
+[Markdown Tutorial](https://www.markdownguide.org/basic-syntax/#blockquotes-1)<br>
+[^1]: This is the beginnig of a great thing.<br>
